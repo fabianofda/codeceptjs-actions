@@ -15,7 +15,7 @@
         "codeceptjs:demo:headless": "HEADLESS=true codeceptjs run --steps -c node_modules/@codeceptjs/examples",
         "codeceptjs:demo:ui": "codecept-ui --app  -c node_modules/@codeceptjs/examples"
     },
-    "author": "Fernando Papito",
+    "author": "Fabiano Dias de Andrade",
     "license": "MIT",
     "devDependencies": {
         "@codeceptjs/configure": "^0.10.0",
