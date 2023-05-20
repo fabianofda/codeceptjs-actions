@@ -7,7 +7,7 @@ Scenario('usuário obrigatório', ({ I }) => {
 
 Scenario('senha obrigatória', ({ I }) => {
     I.login('qa', '')
-    I.toast('Informe a sua senha secreta!erro')
+    I.toast('Informe a sua senha secreta!')
 })
 
 Scenario('usuário não existe', ({ I }) => {
